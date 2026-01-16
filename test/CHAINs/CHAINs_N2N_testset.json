@@ -1,0 +1,1388 @@
+[
+  {
+    "key": "0",
+    "transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s26_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s01_solo.wav"
+  },
+  {
+    "key": "1",
+    "transcription": "Stop each car if it's little.",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s02_solo.wav"
+  },
+  {
+    "key": "2",
+    "transcription": "Play in the street up ahead.",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s03_solo.wav"
+  },
+  {
+    "key": "3",
+    "transcription": "A fifth wheel caught speeding.",
+    "prompt_transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s18_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s04_solo.wav"
+  },
+  {
+    "key": "4",
+    "transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s05_solo.wav"
+  },
+  {
+    "key": "5",
+    "transcription": "Charlie, did you think to measure the tree?",
+    "prompt_transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s27_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s06_solo.wav"
+  },
+  {
+    "key": "6",
+    "transcription": "Tina got cued to make a quicker escape.",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s07_solo.wav"
+  },
+  {
+    "key": "7",
+    "transcription": "Joe books very few judges.",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s08_solo.wav"
+  },
+  {
+    "key": "8",
+    "transcription": "Here I was in Miami and Illinois.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s09_solo.wav"
+  },
+  {
+    "key": "9",
+    "transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s15_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s10_solo.wav"
+  },
+  {
+    "key": "10",
+    "transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_transcription": "Here I was in Miami and Illinois.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s09_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s11_solo.wav"
+  },
+  {
+    "key": "11",
+    "transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s20_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s12_solo.wav"
+  },
+  {
+    "key": "12",
+    "transcription": "Call an ambulance for medical assistance.",
+    "prompt_transcription": "Here I was in Miami and Illinois.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s09_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s13_solo.wav"
+  },
+  {
+    "key": "13",
+    "transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s14_solo.wav"
+  },
+  {
+    "key": "14",
+    "transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s18_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s15_solo.wav"
+  },
+  {
+    "key": "15",
+    "transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s10_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s16_solo.wav"
+  },
+  {
+    "key": "16",
+    "transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s17_solo.wav"
+  },
+  {
+    "key": "17",
+    "transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s18_solo.wav"
+  },
+  {
+    "key": "18",
+    "transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s05_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s19_solo.wav"
+  },
+  {
+    "key": "19",
+    "transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s20_solo.wav"
+  },
+  {
+    "key": "20",
+    "transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s21_solo.wav"
+  },
+  {
+    "key": "21",
+    "transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s22_solo.wav"
+  },
+  {
+    "key": "22",
+    "transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s23_solo.wav"
+  },
+  {
+    "key": "23",
+    "transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s29_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s24_solo.wav"
+  },
+  {
+    "key": "24",
+    "transcription": "Military personnel are expected to obey government orders.",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s25_solo.wav"
+  },
+  {
+    "key": "25",
+    "transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s26_solo.wav"
+  },
+  {
+    "key": "26",
+    "transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s27_solo.wav"
+  },
+  {
+    "key": "27",
+    "transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s28_solo.wav"
+  },
+  {
+    "key": "28",
+    "transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s29_solo.wav"
+  },
+  {
+    "key": "29",
+    "transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s30_solo.wav"
+  },
+  {
+    "key": "30",
+    "transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s01_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s31_solo.wav"
+  },
+  {
+    "key": "31",
+    "transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s32_solo.wav"
+  },
+  {
+    "key": "32",
+    "transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm11/irm11_s26_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm11/irm11_s33_solo.wav"
+  },
+  {
+    "key": "33",
+    "transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_transcription": "Stop each car if it's little.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s02_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s01_solo.wav"
+  },
+  {
+    "key": "34",
+    "transcription": "Stop each car if it's little.",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s02_solo.wav"
+  },
+  {
+    "key": "35",
+    "transcription": "Play in the street up ahead.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s03_solo.wav"
+  },
+  {
+    "key": "36",
+    "transcription": "A fifth wheel caught speeding.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s04_solo.wav"
+  },
+  {
+    "key": "37",
+    "transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s22_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s05_solo.wav"
+  },
+  {
+    "key": "38",
+    "transcription": "Charlie, did you think to measure the tree?",
+    "prompt_transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s05_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s06_solo.wav"
+  },
+  {
+    "key": "39",
+    "transcription": "Tina got cued to make a quicker escape.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s07_solo.wav"
+  },
+  {
+    "key": "40",
+    "transcription": "Joe books very few judges.",
+    "prompt_transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s16_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s08_solo.wav"
+  },
+  {
+    "key": "41",
+    "transcription": "Here I was in Miami and Illinois.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s09_solo.wav"
+  },
+  {
+    "key": "42",
+    "transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s10_solo.wav"
+  },
+  {
+    "key": "43",
+    "transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s11_solo.wav"
+  },
+  {
+    "key": "44",
+    "transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s12_solo.wav"
+  },
+  {
+    "key": "45",
+    "transcription": "Call an ambulance for medical assistance.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s13_solo.wav"
+  },
+  {
+    "key": "46",
+    "transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s22_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s14_solo.wav"
+  },
+  {
+    "key": "47",
+    "transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s15_solo.wav"
+  },
+  {
+    "key": "48",
+    "transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s16_solo.wav"
+  },
+  {
+    "key": "49",
+    "transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s17_solo.wav"
+  },
+  {
+    "key": "50",
+    "transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s20_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s18_solo.wav"
+  },
+  {
+    "key": "51",
+    "transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s19_solo.wav"
+  },
+  {
+    "key": "52",
+    "transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s20_solo.wav"
+  },
+  {
+    "key": "53",
+    "transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s21_solo.wav"
+  },
+  {
+    "key": "54",
+    "transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s19_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s22_solo.wav"
+  },
+  {
+    "key": "55",
+    "transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s23_solo.wav"
+  },
+  {
+    "key": "56",
+    "transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s24_solo.wav"
+  },
+  {
+    "key": "57",
+    "transcription": "Military personnel are expected to obey government orders.",
+    "prompt_transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s26_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s25_solo.wav"
+  },
+  {
+    "key": "58",
+    "transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s26_solo.wav"
+  },
+  {
+    "key": "59",
+    "transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s16_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s27_solo.wav"
+  },
+  {
+    "key": "60",
+    "transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s19_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s28_solo.wav"
+  },
+  {
+    "key": "61",
+    "transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s29_solo.wav"
+  },
+  {
+    "key": "62",
+    "transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_transcription": "Call an ambulance for medical assistance.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s13_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s30_solo.wav"
+  },
+  {
+    "key": "63",
+    "transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s31_solo.wav"
+  },
+  {
+    "key": "64",
+    "transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s32_solo.wav"
+  },
+  {
+    "key": "65",
+    "transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm12/irm12_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm12/irm12_s33_solo.wav"
+  },
+  {
+    "key": "66",
+    "transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s01_solo.wav"
+  },
+  {
+    "key": "67",
+    "transcription": "Stop each car if it's little.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s02_solo.wav"
+  },
+  {
+    "key": "68",
+    "transcription": "Play in the street up ahead.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s03_solo.wav"
+  },
+  {
+    "key": "69",
+    "transcription": "A fifth wheel caught speeding.",
+    "prompt_transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s10_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s04_solo.wav"
+  },
+  {
+    "key": "70",
+    "transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s05_solo.wav"
+  },
+  {
+    "key": "71",
+    "transcription": "Charlie, did you think to measure the tree?",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s06_solo.wav"
+  },
+  {
+    "key": "72",
+    "transcription": "Tina got cued to make a quicker escape.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s07_solo.wav"
+  },
+  {
+    "key": "73",
+    "transcription": "Joe books very few judges.",
+    "prompt_transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s27_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s08_solo.wav"
+  },
+  {
+    "key": "74",
+    "transcription": "Here I was in Miami and Illinois.",
+    "prompt_transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s19_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s09_solo.wav"
+  },
+  {
+    "key": "75",
+    "transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s10_solo.wav"
+  },
+  {
+    "key": "76",
+    "transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s15_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s11_solo.wav"
+  },
+  {
+    "key": "77",
+    "transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s12_solo.wav"
+  },
+  {
+    "key": "78",
+    "transcription": "Call an ambulance for medical assistance.",
+    "prompt_transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s19_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s13_solo.wav"
+  },
+  {
+    "key": "79",
+    "transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s14_solo.wav"
+  },
+  {
+    "key": "80",
+    "transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s15_solo.wav"
+  },
+  {
+    "key": "81",
+    "transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s16_solo.wav"
+  },
+  {
+    "key": "82",
+    "transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s17_solo.wav"
+  },
+  {
+    "key": "83",
+    "transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s22_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s18_solo.wav"
+  },
+  {
+    "key": "84",
+    "transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s19_solo.wav"
+  },
+  {
+    "key": "85",
+    "transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s20_solo.wav"
+  },
+  {
+    "key": "86",
+    "transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s21_solo.wav"
+  },
+  {
+    "key": "87",
+    "transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_transcription": "Call an ambulance for medical assistance.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s13_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s22_solo.wav"
+  },
+  {
+    "key": "88",
+    "transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s16_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s23_solo.wav"
+  },
+  {
+    "key": "89",
+    "transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_transcription": "Stop each car if it's little.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s02_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s24_solo.wav"
+  },
+  {
+    "key": "90",
+    "transcription": "Military personnel are expected to obey government orders.",
+    "prompt_transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s18_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s25_solo.wav"
+  },
+  {
+    "key": "91",
+    "transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s26_solo.wav"
+  },
+  {
+    "key": "92",
+    "transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s15_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s27_solo.wav"
+  },
+  {
+    "key": "93",
+    "transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s28_solo.wav"
+  },
+  {
+    "key": "94",
+    "transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s29_solo.wav"
+  },
+  {
+    "key": "95",
+    "transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s22_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s30_solo.wav"
+  },
+  {
+    "key": "96",
+    "transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s31_solo.wav"
+  },
+  {
+    "key": "97",
+    "transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s32_solo.wav"
+  },
+  {
+    "key": "98",
+    "transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm13/irm13_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm13/irm13_s33_solo.wav"
+  },
+  {
+    "key": "99",
+    "transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s01_solo.wav"
+  },
+  {
+    "key": "100",
+    "transcription": "Stop each car if it's little.",
+    "prompt_transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s16_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s02_solo.wav"
+  },
+  {
+    "key": "101",
+    "transcription": "Play in the street up ahead.",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s03_solo.wav"
+  },
+  {
+    "key": "102",
+    "transcription": "A fifth wheel caught speeding.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s04_solo.wav"
+  },
+  {
+    "key": "103",
+    "transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_transcription": "Stop each car if it's little.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s02_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s05_solo.wav"
+  },
+  {
+    "key": "104",
+    "transcription": "Charlie, did you think to measure the tree?",
+    "prompt_transcription": "Here I was in Miami and Illinois.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s09_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s06_solo.wav"
+  },
+  {
+    "key": "105",
+    "transcription": "Tina got cued to make a quicker escape.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s07_solo.wav"
+  },
+  {
+    "key": "106",
+    "transcription": "Joe books very few judges.",
+    "prompt_transcription": "Here I was in Miami and Illinois.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s09_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s08_solo.wav"
+  },
+  {
+    "key": "107",
+    "transcription": "Here I was in Miami and Illinois.",
+    "prompt_transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s27_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s09_solo.wav"
+  },
+  {
+    "key": "108",
+    "transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s10_solo.wav"
+  },
+  {
+    "key": "109",
+    "transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_transcription": "Military personnel are expected to obey government orders.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s25_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s11_solo.wav"
+  },
+  {
+    "key": "110",
+    "transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s12_solo.wav"
+  },
+  {
+    "key": "111",
+    "transcription": "Call an ambulance for medical assistance.",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s13_solo.wav"
+  },
+  {
+    "key": "112",
+    "transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_transcription": "Stop each car if it's little.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s02_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s14_solo.wav"
+  },
+  {
+    "key": "113",
+    "transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_transcription": "Call an ambulance for medical assistance.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s13_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s15_solo.wav"
+  },
+  {
+    "key": "114",
+    "transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s16_solo.wav"
+  },
+  {
+    "key": "115",
+    "transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s17_solo.wav"
+  },
+  {
+    "key": "116",
+    "transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s18_solo.wav"
+  },
+  {
+    "key": "117",
+    "transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s19_solo.wav"
+  },
+  {
+    "key": "118",
+    "transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s20_solo.wav"
+  },
+  {
+    "key": "119",
+    "transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_transcription": "Stop each car if it's little.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s02_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s21_solo.wav"
+  },
+  {
+    "key": "120",
+    "transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s29_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s22_solo.wav"
+  },
+  {
+    "key": "121",
+    "transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_transcription": "Tina got cued to make a quicker escape.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s07_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s23_solo.wav"
+  },
+  {
+    "key": "122",
+    "transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s24_solo.wav"
+  },
+  {
+    "key": "123",
+    "transcription": "Military personnel are expected to obey government orders.",
+    "prompt_transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s05_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s25_solo.wav"
+  },
+  {
+    "key": "124",
+    "transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s15_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s26_solo.wav"
+  },
+  {
+    "key": "125",
+    "transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s05_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s27_solo.wav"
+  },
+  {
+    "key": "126",
+    "transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s20_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s28_solo.wav"
+  },
+  {
+    "key": "127",
+    "transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s29_solo.wav"
+  },
+  {
+    "key": "128",
+    "transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s30_solo.wav"
+  },
+  {
+    "key": "129",
+    "transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s31_solo.wav"
+  },
+  {
+    "key": "130",
+    "transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s32_solo.wav"
+  },
+  {
+    "key": "131",
+    "transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm14/irm14_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm14/irm14_s33_solo.wav"
+  },
+  {
+    "key": "132",
+    "transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s01_solo.wav"
+  },
+  {
+    "key": "133",
+    "transcription": "Stop each car if it's little.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s02_solo.wav"
+  },
+  {
+    "key": "134",
+    "transcription": "Play in the street up ahead.",
+    "prompt_transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s27_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s03_solo.wav"
+  },
+  {
+    "key": "135",
+    "transcription": "A fifth wheel caught speeding.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s04_solo.wav"
+  },
+  {
+    "key": "136",
+    "transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s18_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s05_solo.wav"
+  },
+  {
+    "key": "137",
+    "transcription": "Charlie, did you think to measure the tree?",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s06_solo.wav"
+  },
+  {
+    "key": "138",
+    "transcription": "Tina got cued to make a quicker escape.",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s07_solo.wav"
+  },
+  {
+    "key": "139",
+    "transcription": "Joe books very few judges.",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s08_solo.wav"
+  },
+  {
+    "key": "140",
+    "transcription": "Here I was in Miami and Illinois.",
+    "prompt_transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s15_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s09_solo.wav"
+  },
+  {
+    "key": "141",
+    "transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_transcription": "A fifth wheel caught speeding.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s04_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s10_solo.wav"
+  },
+  {
+    "key": "142",
+    "transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s11_solo.wav"
+  },
+  {
+    "key": "143",
+    "transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s12_solo.wav"
+  },
+  {
+    "key": "144",
+    "transcription": "Call an ambulance for medical assistance.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s13_solo.wav"
+  },
+  {
+    "key": "145",
+    "transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s18_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s14_solo.wav"
+  },
+  {
+    "key": "146",
+    "transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_transcription": "Joe books very few judges.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s08_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s15_solo.wav"
+  },
+  {
+    "key": "147",
+    "transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s16_solo.wav"
+  },
+  {
+    "key": "148",
+    "transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s12_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s17_solo.wav"
+  },
+  {
+    "key": "149",
+    "transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s01_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s18_solo.wav"
+  },
+  {
+    "key": "150",
+    "transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s19_solo.wav"
+  },
+  {
+    "key": "151",
+    "transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s20_solo.wav"
+  },
+  {
+    "key": "152",
+    "transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s20_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s21_solo.wav"
+  },
+  {
+    "key": "153",
+    "transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s22_solo.wav"
+  },
+  {
+    "key": "154",
+    "transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s26_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s23_solo.wav"
+  },
+  {
+    "key": "155",
+    "transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s24_solo.wav"
+  },
+  {
+    "key": "156",
+    "transcription": "Military personnel are expected to obey government orders.",
+    "prompt_transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s10_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s25_solo.wav"
+  },
+  {
+    "key": "157",
+    "transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s01_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s26_solo.wav"
+  },
+  {
+    "key": "158",
+    "transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s31_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s27_solo.wav"
+  },
+  {
+    "key": "159",
+    "transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s28_solo.wav"
+  },
+  {
+    "key": "160",
+    "transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s22_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s29_solo.wav"
+  },
+  {
+    "key": "161",
+    "transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s30_solo.wav"
+  },
+  {
+    "key": "162",
+    "transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s18_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s31_solo.wav"
+  },
+  {
+    "key": "163",
+    "transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_transcription": "Here I was in Miami and Illinois.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s09_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s32_solo.wav"
+  },
+  {
+    "key": "164",
+    "transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm15/irm15_s16_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm15/irm15_s33_solo.wav"
+  },
+  {
+    "key": "165",
+    "transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s32_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s01_solo.wav"
+  },
+  {
+    "key": "166",
+    "transcription": "Stop each car if it's little.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s02_solo.wav"
+  },
+  {
+    "key": "167",
+    "transcription": "Play in the street up ahead.",
+    "prompt_transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s20_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s03_solo.wav"
+  },
+  {
+    "key": "168",
+    "transcription": "A fifth wheel caught speeding.",
+    "prompt_transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s24_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s04_solo.wav"
+  },
+  {
+    "key": "169",
+    "transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s10_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s05_solo.wav"
+  },
+  {
+    "key": "170",
+    "transcription": "Charlie, did you think to measure the tree?",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s06_solo.wav"
+  },
+  {
+    "key": "171",
+    "transcription": "Tina got cued to make a quicker escape.",
+    "prompt_transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s26_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s07_solo.wav"
+  },
+  {
+    "key": "172",
+    "transcription": "Joe books very few judges.",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s08_solo.wav"
+  },
+  {
+    "key": "173",
+    "transcription": "Here I was in Miami and Illinois.",
+    "prompt_transcription": "Charlie, did you think to measure the tree?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s06_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s09_solo.wav"
+  },
+  {
+    "key": "174",
+    "transcription": "She had your dark suit in greasy wash water all year.",
+    "prompt_transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s01_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s10_solo.wav"
+  },
+  {
+    "key": "175",
+    "transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s14_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s11_solo.wav"
+  },
+  {
+    "key": "176",
+    "transcription": "A boring novel is a superb sleeping pill.",
+    "prompt_transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s23_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s12_solo.wav"
+  },
+  {
+    "key": "177",
+    "transcription": "Call an ambulance for medical assistance.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s13_solo.wav"
+  },
+  {
+    "key": "178",
+    "transcription": "We saw eight tiny icicles below our roof.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s14_solo.wav"
+  },
+  {
+    "key": "179",
+    "transcription": "Each untimely income loss coincided with the breakdown of a heating system part.",
+    "prompt_transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s16_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s15_solo.wav"
+  },
+  {
+    "key": "180",
+    "transcription": "Jeff thought you argued in favor of a centrifuge purchase.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s16_solo.wav"
+  },
+  {
+    "key": "181",
+    "transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s26_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s17_solo.wav"
+  },
+  {
+    "key": "182",
+    "transcription": "Kindergarten children decorate their classrooms for all holidays.",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s18_solo.wav"
+  },
+  {
+    "key": "183",
+    "transcription": "Cory and Trish played tag with beach balls for hours.",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s19_solo.wav"
+  },
+  {
+    "key": "184",
+    "transcription": "The frightened child was gently subdued by his big brother.",
+    "prompt_transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s27_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s20_solo.wav"
+  },
+  {
+    "key": "185",
+    "transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s28_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s21_solo.wav"
+  },
+  {
+    "key": "186",
+    "transcription": "Alice's ability to work without supervision is noteworthy.",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s22_solo.wav"
+  },
+  {
+    "key": "187",
+    "transcription": "Special task forces rescue hostages from kidnappers.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s23_solo.wav"
+  },
+  {
+    "key": "188",
+    "transcription": "If Carol comes tomorrow, have her arrange for a meeting at two.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s24_solo.wav"
+  },
+  {
+    "key": "189",
+    "transcription": "Military personnel are expected to obey government orders.",
+    "prompt_transcription": "It's been about two years since Davey kept shotguns.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s05_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s25_solo.wav"
+  },
+  {
+    "key": "190",
+    "transcription": "Laugh, dance, and sing if fortune smiles upon you.",
+    "prompt_transcription": "The sermon emphasized the need for affirmative action.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s17_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s26_solo.wav"
+  },
+  {
+    "key": "191",
+    "transcription": "The fish began to leap frantically on the surface of the small lake.",
+    "prompt_transcription": "Don't ask me to carry an oily rag like that.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s11_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s27_solo.wav"
+  },
+  {
+    "key": "192",
+    "transcription": "The easygoing zoologist relaxed throughout the voyage.",
+    "prompt_transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s30_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s28_solo.wav"
+  },
+  {
+    "key": "193",
+    "transcription": "Brush fires are common in the dry underbrush of Nevada.",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s29_solo.wav"
+  },
+  {
+    "key": "194",
+    "transcription": "How much will it cost to do any necessary modernizing and redecorating?",
+    "prompt_transcription": "If it doesn't matter who wins, why do we keep score?",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s01_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s30_solo.wav"
+  },
+  {
+    "key": "195",
+    "transcription": "Was she just naturally sloppy about everything but her physical appearance?",
+    "prompt_transcription": "Play in the street up ahead.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s03_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s31_solo.wav"
+  },
+  {
+    "key": "196",
+    "transcription": "Is a relaxed home atmosphere enough to help her outgrow these traits?",
+    "prompt_transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s33_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s32_solo.wav"
+  },
+  {
+    "key": "197",
+    "transcription": "The same shelter could be built into an embankment or below ground level.",
+    "prompt_transcription": "The tooth fairy forgot to come when Roger's tooth fell out.",
+    "prompt_audio": "CHAINs/solo/data/solo/irm16/irm16_s21_solo.wav",
+    "ground_truth": "CHAINs/solo/data/solo/irm16/irm16_s33_solo.wav"
+  }
+]

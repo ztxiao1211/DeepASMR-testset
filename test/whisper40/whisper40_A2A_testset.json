@@ -1,0 +1,2501 @@
+[
+  {
+    "key": "0",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_26_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zhw32/zhw32_01_whsp.wav"
+  },
+  {
+    "key": "1",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zhw32/zhw32_02_whsp.wav"
+  },
+  {
+    "key": "2",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zhw32/zhw32_03_whsp.wav"
+  },
+  {
+    "key": "3",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_04_whsp.wav"
+  },
+  {
+    "key": "4",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_05_whsp.wav"
+  },
+  {
+    "key": "5",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_06_whsp.wav"
+  },
+  {
+    "key": "6",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_07_whsp.wav"
+  },
+  {
+    "key": "7",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_08_whsp.wav"
+  },
+  {
+    "key": "8",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_09_whsp.wav"
+  },
+  {
+    "key": "9",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_10_whsp.wav"
+  },
+  {
+    "key": "10",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_11_whsp.wav"
+  },
+  {
+    "key": "11",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_15_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_12_whsp.wav"
+  },
+  {
+    "key": "12",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_13_whsp.wav"
+  },
+  {
+    "key": "13",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_14_whsp.wav"
+  },
+  {
+    "key": "14",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_15_whsp.wav"
+  },
+  {
+    "key": "15",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_16_whsp.wav"
+  },
+  {
+    "key": "16",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_17_whsp.wav"
+  },
+  {
+    "key": "17",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_18_whsp.wav"
+  },
+  {
+    "key": "18",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_19_whsp.wav"
+  },
+  {
+    "key": "19",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_20_whsp.wav"
+  },
+  {
+    "key": "20",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_21_whsp.wav"
+  },
+  {
+    "key": "21",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_22_whsp.wav"
+  },
+  {
+    "key": "22",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_23_whsp.wav"
+  },
+  {
+    "key": "23",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_24_whsp.wav"
+  },
+  {
+    "key": "24",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_25_whsp.wav"
+  },
+  {
+    "key": "25",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_26_whsp.wav"
+  },
+  {
+    "key": "26",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_27_whsp.wav"
+  },
+  {
+    "key": "27",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_28_whsp.wav"
+  },
+  {
+    "key": "28",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_29_whsp.wav"
+  },
+  {
+    "key": "29",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_30_whsp.wav"
+  },
+  {
+    "key": "30",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_31_whsp.wav"
+  },
+  {
+    "key": "31",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_32_whsp.wav"
+  },
+  {
+    "key": "32",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_33_whsp.wav"
+  },
+  {
+    "key": "33",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "强化党委书记是第一责任人。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_31_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_34_whsp.wav"
+  },
+  {
+    "key": "34",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_35_whsp.wav"
+  },
+  {
+    "key": "35",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_36_whsp.wav"
+  },
+  {
+    "key": "36",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_37_whsp.wav"
+  },
+  {
+    "key": "37",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_38_whsp.wav"
+  },
+  {
+    "key": "38",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_39_whsp.wav"
+  },
+  {
+    "key": "39",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zhw32/zhw32_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zhw32/zhw32_40_whsp.wav"
+  },
+  {
+    "key": "40",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zjx33/zjx33_01_whsp.wav"
+  },
+  {
+    "key": "41",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zjx33/zjx33_02_whsp.wav"
+  },
+  {
+    "key": "42",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zjx33/zjx33_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zjx33/zjx33_03_whsp.wav"
+  },
+  {
+    "key": "43",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_04_whsp.wav"
+  },
+  {
+    "key": "44",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_05_whsp.wav"
+  },
+  {
+    "key": "45",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_06_whsp.wav"
+  },
+  {
+    "key": "46",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_07_whsp.wav"
+  },
+  {
+    "key": "47",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_08_whsp.wav"
+  },
+  {
+    "key": "48",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_09_whsp.wav"
+  },
+  {
+    "key": "49",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_10_whsp.wav"
+  },
+  {
+    "key": "50",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_16_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_11_whsp.wav"
+  },
+  {
+    "key": "51",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_12_whsp.wav"
+  },
+  {
+    "key": "52",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_13_whsp.wav"
+  },
+  {
+    "key": "53",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_14_whsp.wav"
+  },
+  {
+    "key": "54",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_30_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_15_whsp.wav"
+  },
+  {
+    "key": "55",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_16_whsp.wav"
+  },
+  {
+    "key": "56",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_17_whsp.wav"
+  },
+  {
+    "key": "57",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_18_whsp.wav"
+  },
+  {
+    "key": "58",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_19_whsp.wav"
+  },
+  {
+    "key": "59",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_20_whsp.wav"
+  },
+  {
+    "key": "60",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_21_whsp.wav"
+  },
+  {
+    "key": "61",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_22_whsp.wav"
+  },
+  {
+    "key": "62",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_23_whsp.wav"
+  },
+  {
+    "key": "63",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_19_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_24_whsp.wav"
+  },
+  {
+    "key": "64",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_25_whsp.wav"
+  },
+  {
+    "key": "65",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_26_whsp.wav"
+  },
+  {
+    "key": "66",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_27_whsp.wav"
+  },
+  {
+    "key": "67",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_28_whsp.wav"
+  },
+  {
+    "key": "68",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_29_whsp.wav"
+  },
+  {
+    "key": "69",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_30_whsp.wav"
+  },
+  {
+    "key": "70",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_31_whsp.wav"
+  },
+  {
+    "key": "71",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_32_whsp.wav"
+  },
+  {
+    "key": "72",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_19_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_33_whsp.wav"
+  },
+  {
+    "key": "73",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_34_whsp.wav"
+  },
+  {
+    "key": "74",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_35_whsp.wav"
+  },
+  {
+    "key": "75",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_36_whsp.wav"
+  },
+  {
+    "key": "76",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_37_whsp.wav"
+  },
+  {
+    "key": "77",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_38_whsp.wav"
+  },
+  {
+    "key": "78",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_39_whsp.wav"
+  },
+  {
+    "key": "79",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_16_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zjx33/zjx33_40_whsp.wav"
+  },
+  {
+    "key": "80",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zk034/zk034_01_whsp.wav"
+  },
+  {
+    "key": "81",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zk034/zk034_02_whsp.wav"
+  },
+  {
+    "key": "82",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zk034/zk034_03_whsp.wav"
+  },
+  {
+    "key": "83",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_04_whsp.wav"
+  },
+  {
+    "key": "84",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zk034/zk034_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_05_whsp.wav"
+  },
+  {
+    "key": "85",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_06_whsp.wav"
+  },
+  {
+    "key": "86",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_07_whsp.wav"
+  },
+  {
+    "key": "87",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_08_whsp.wav"
+  },
+  {
+    "key": "88",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_09_whsp.wav"
+  },
+  {
+    "key": "89",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_10_whsp.wav"
+  },
+  {
+    "key": "90",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_11_whsp.wav"
+  },
+  {
+    "key": "91",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zk034/zk034_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_12_whsp.wav"
+  },
+  {
+    "key": "92",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_13_whsp.wav"
+  },
+  {
+    "key": "93",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_14_whsp.wav"
+  },
+  {
+    "key": "94",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_15_whsp.wav"
+  },
+  {
+    "key": "95",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "健全意识形态工作体系。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_35_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_16_whsp.wav"
+  },
+  {
+    "key": "96",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_19_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_17_whsp.wav"
+  },
+  {
+    "key": "97",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "健全意识形态工作体系。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_35_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_18_whsp.wav"
+  },
+  {
+    "key": "98",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_16_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_19_whsp.wav"
+  },
+  {
+    "key": "99",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_20_whsp.wav"
+  },
+  {
+    "key": "100",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_21_whsp.wav"
+  },
+  {
+    "key": "101",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_22_whsp.wav"
+  },
+  {
+    "key": "102",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_23_whsp.wav"
+  },
+  {
+    "key": "103",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_24_whsp.wav"
+  },
+  {
+    "key": "104",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_30_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_25_whsp.wav"
+  },
+  {
+    "key": "105",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_26_whsp.wav"
+  },
+  {
+    "key": "106",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_27_whsp.wav"
+  },
+  {
+    "key": "107",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_28_whsp.wav"
+  },
+  {
+    "key": "108",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_29_whsp.wav"
+  },
+  {
+    "key": "109",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_30_whsp.wav"
+  },
+  {
+    "key": "110",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_31_whsp.wav"
+  },
+  {
+    "key": "111",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_32_whsp.wav"
+  },
+  {
+    "key": "112",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_33_whsp.wav"
+  },
+  {
+    "key": "113",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_34_whsp.wav"
+  },
+  {
+    "key": "114",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_16_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_35_whsp.wav"
+  },
+  {
+    "key": "115",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zk034/zk034_02_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_36_whsp.wav"
+  },
+  {
+    "key": "116",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_37_whsp.wav"
+  },
+  {
+    "key": "117",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_38_whsp.wav"
+  },
+  {
+    "key": "118",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_15_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_39_whsp.wav"
+  },
+  {
+    "key": "119",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zk034/zk034_40_whsp.wav"
+  },
+  {
+    "key": "120",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_01_whsp.wav"
+  },
+  {
+    "key": "121",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_02_whsp.wav"
+  },
+  {
+    "key": "122",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_03_whsp.wav"
+  },
+  {
+    "key": "123",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_04_whsp.wav"
+  },
+  {
+    "key": "124",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_05_whsp.wav"
+  },
+  {
+    "key": "125",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_06_whsp.wav"
+  },
+  {
+    "key": "126",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_16_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_07_whsp.wav"
+  },
+  {
+    "key": "127",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_08_whsp.wav"
+  },
+  {
+    "key": "128",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_09_whsp.wav"
+  },
+  {
+    "key": "129",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_10_whsp.wav"
+  },
+  {
+    "key": "130",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_11_whsp.wav"
+  },
+  {
+    "key": "131",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_12_whsp.wav"
+  },
+  {
+    "key": "132",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_02_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_13_whsp.wav"
+  },
+  {
+    "key": "133",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_14_whsp.wav"
+  },
+  {
+    "key": "134",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_15_whsp.wav"
+  },
+  {
+    "key": "135",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_16_whsp.wav"
+  },
+  {
+    "key": "136",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_17_whsp.wav"
+  },
+  {
+    "key": "137",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_18_whsp.wav"
+  },
+  {
+    "key": "138",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_19_whsp.wav"
+  },
+  {
+    "key": "139",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_20_whsp.wav"
+  },
+  {
+    "key": "140",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_21_whsp.wav"
+  },
+  {
+    "key": "141",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_22_whsp.wav"
+  },
+  {
+    "key": "142",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_23_whsp.wav"
+  },
+  {
+    "key": "143",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_24_whsp.wav"
+  },
+  {
+    "key": "144",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_02_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_25_whsp.wav"
+  },
+  {
+    "key": "145",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_26_whsp.wav"
+  },
+  {
+    "key": "146",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_27_whsp.wav"
+  },
+  {
+    "key": "147",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_28_whsp.wav"
+  },
+  {
+    "key": "148",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_29_whsp.wav"
+  },
+  {
+    "key": "149",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_30_whsp.wav"
+  },
+  {
+    "key": "150",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_31_whsp.wav"
+  },
+  {
+    "key": "151",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zln35/zln35_02_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_32_whsp.wav"
+  },
+  {
+    "key": "152",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_33_whsp.wav"
+  },
+  {
+    "key": "153",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_34_whsp.wav"
+  },
+  {
+    "key": "154",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_35_whsp.wav"
+  },
+  {
+    "key": "155",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_36_whsp.wav"
+  },
+  {
+    "key": "156",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_37_whsp.wav"
+  },
+  {
+    "key": "157",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_15_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_38_whsp.wav"
+  },
+  {
+    "key": "158",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_39_whsp.wav"
+  },
+  {
+    "key": "159",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zln35/zln35_40_whsp.wav"
+  },
+  {
+    "key": "160",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zty36/zty36_01_whsp.wav"
+  },
+  {
+    "key": "161",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zty36/zty36_02_whsp.wav"
+  },
+  {
+    "key": "162",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zty36/zty36_03_whsp.wav"
+  },
+  {
+    "key": "163",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_04_whsp.wav"
+  },
+  {
+    "key": "164",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_05_whsp.wav"
+  },
+  {
+    "key": "165",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "强化党委书记是第一责任人。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_31_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_06_whsp.wav"
+  },
+  {
+    "key": "166",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zty36/zty36_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_07_whsp.wav"
+  },
+  {
+    "key": "167",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_08_whsp.wav"
+  },
+  {
+    "key": "168",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_09_whsp.wav"
+  },
+  {
+    "key": "169",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_10_whsp.wav"
+  },
+  {
+    "key": "170",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_12_whsp.wav"
+  },
+  {
+    "key": "171",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_13_whsp.wav"
+  },
+  {
+    "key": "172",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_15_whsp.wav"
+  },
+  {
+    "key": "173",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_16_whsp.wav"
+  },
+  {
+    "key": "174",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_18_whsp.wav"
+  },
+  {
+    "key": "175",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_19_whsp.wav"
+  },
+  {
+    "key": "176",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_20_whsp.wav"
+  },
+  {
+    "key": "177",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_21_whsp.wav"
+  },
+  {
+    "key": "178",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "健全意识形态工作体系。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_35_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_22_whsp.wav"
+  },
+  {
+    "key": "179",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_23_whsp.wav"
+  },
+  {
+    "key": "180",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_24_whsp.wav"
+  },
+  {
+    "key": "181",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_25_whsp.wav"
+  },
+  {
+    "key": "182",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_30_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_26_whsp.wav"
+  },
+  {
+    "key": "183",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_27_whsp.wav"
+  },
+  {
+    "key": "184",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zty36/zty36_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_28_whsp.wav"
+  },
+  {
+    "key": "185",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_29_whsp.wav"
+  },
+  {
+    "key": "186",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_30_whsp.wav"
+  },
+  {
+    "key": "187",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_31_whsp.wav"
+  },
+  {
+    "key": "188",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_32_whsp.wav"
+  },
+  {
+    "key": "189",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_33_whsp.wav"
+  },
+  {
+    "key": "190",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_34_whsp.wav"
+  },
+  {
+    "key": "191",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_35_whsp.wav"
+  },
+  {
+    "key": "192",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_36_whsp.wav"
+  },
+  {
+    "key": "193",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_37_whsp.wav"
+  },
+  {
+    "key": "194",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_38_whsp.wav"
+  },
+  {
+    "key": "195",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zty36/zty36_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_39_whsp.wav"
+  },
+  {
+    "key": "196",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_30_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zty36/zty36_40_whsp.wav"
+  },
+  {
+    "key": "197",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zw037/zw037_01_whsp.wav"
+  },
+  {
+    "key": "198",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zw037/zw037_02_whsp.wav"
+  },
+  {
+    "key": "199",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zw037/zw037_03_whsp.wav"
+  },
+  {
+    "key": "200",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_04_whsp.wav"
+  },
+  {
+    "key": "201",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_19_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_05_whsp.wav"
+  },
+  {
+    "key": "202",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_06_whsp.wav"
+  },
+  {
+    "key": "203",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_07_whsp.wav"
+  },
+  {
+    "key": "204",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_08_whsp.wav"
+  },
+  {
+    "key": "205",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_09_whsp.wav"
+  },
+  {
+    "key": "206",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_10_whsp.wav"
+  },
+  {
+    "key": "207",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_11_whsp.wav"
+  },
+  {
+    "key": "208",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_12_whsp.wav"
+  },
+  {
+    "key": "209",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_13_whsp.wav"
+  },
+  {
+    "key": "210",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_14_whsp.wav"
+  },
+  {
+    "key": "211",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_26_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_15_whsp.wav"
+  },
+  {
+    "key": "212",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_16_whsp.wav"
+  },
+  {
+    "key": "213",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_17_whsp.wav"
+  },
+  {
+    "key": "214",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zw037/zw037_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_18_whsp.wav"
+  },
+  {
+    "key": "215",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_19_whsp.wav"
+  },
+  {
+    "key": "216",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_20_whsp.wav"
+  },
+  {
+    "key": "217",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_21_whsp.wav"
+  },
+  {
+    "key": "218",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_22_whsp.wav"
+  },
+  {
+    "key": "219",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_16_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_23_whsp.wav"
+  },
+  {
+    "key": "220",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_15_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_24_whsp.wav"
+  },
+  {
+    "key": "221",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_30_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_25_whsp.wav"
+  },
+  {
+    "key": "222",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_26_whsp.wav"
+  },
+  {
+    "key": "223",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_27_whsp.wav"
+  },
+  {
+    "key": "224",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_28_whsp.wav"
+  },
+  {
+    "key": "225",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zw037/zw037_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_29_whsp.wav"
+  },
+  {
+    "key": "226",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_26_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_30_whsp.wav"
+  },
+  {
+    "key": "227",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_31_whsp.wav"
+  },
+  {
+    "key": "228",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_32_whsp.wav"
+  },
+  {
+    "key": "229",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zw037/zw037_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_33_whsp.wav"
+  },
+  {
+    "key": "230",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_34_whsp.wav"
+  },
+  {
+    "key": "231",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_35_whsp.wav"
+  },
+  {
+    "key": "232",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_36_whsp.wav"
+  },
+  {
+    "key": "233",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_37_whsp.wav"
+  },
+  {
+    "key": "234",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_38_whsp.wav"
+  },
+  {
+    "key": "235",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_39_whsp.wav"
+  },
+  {
+    "key": "236",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "学生党员的廉政教育。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_34_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zw037/zw037_40_whsp.wav"
+  },
+  {
+    "key": "237",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_01_whsp.wav"
+  },
+  {
+    "key": "238",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_02_whsp.wav"
+  },
+  {
+    "key": "239",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_03_whsp.wav"
+  },
+  {
+    "key": "240",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_04_whsp.wav"
+  },
+  {
+    "key": "241",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_05_whsp.wav"
+  },
+  {
+    "key": "242",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_06_whsp.wav"
+  },
+  {
+    "key": "243",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_07_whsp.wav"
+  },
+  {
+    "key": "244",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_08_whsp.wav"
+  },
+  {
+    "key": "245",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "强化党委书记是第一责任人。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_31_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_09_whsp.wav"
+  },
+  {
+    "key": "246",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_10_whsp.wav"
+  },
+  {
+    "key": "247",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_11_whsp.wav"
+  },
+  {
+    "key": "248",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_12_whsp.wav"
+  },
+  {
+    "key": "249",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_13_whsp.wav"
+  },
+  {
+    "key": "250",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_14_whsp.wav"
+  },
+  {
+    "key": "251",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_15_whsp.wav"
+  },
+  {
+    "key": "252",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_16_whsp.wav"
+  },
+  {
+    "key": "253",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_17_whsp.wav"
+  },
+  {
+    "key": "254",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_18_whsp.wav"
+  },
+  {
+    "key": "255",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_19_whsp.wav"
+  },
+  {
+    "key": "256",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_20_whsp.wav"
+  },
+  {
+    "key": "257",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_21_whsp.wav"
+  },
+  {
+    "key": "258",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_22_whsp.wav"
+  },
+  {
+    "key": "259",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_23_whsp.wav"
+  },
+  {
+    "key": "260",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "健全意识形态工作体系。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_35_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_24_whsp.wav"
+  },
+  {
+    "key": "261",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_25_whsp.wav"
+  },
+  {
+    "key": "262",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_26_whsp.wav"
+  },
+  {
+    "key": "263",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_27_whsp.wav"
+  },
+  {
+    "key": "264",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_28_whsp.wav"
+  },
+  {
+    "key": "265",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_13_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_29_whsp.wav"
+  },
+  {
+    "key": "266",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_30_whsp.wav"
+  },
+  {
+    "key": "267",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_31_whsp.wav"
+  },
+  {
+    "key": "268",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_32_whsp.wav"
+  },
+  {
+    "key": "269",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_33_whsp.wav"
+  },
+  {
+    "key": "270",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "强化党委书记是第一责任人。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_31_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_34_whsp.wav"
+  },
+  {
+    "key": "271",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_26_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_35_whsp.wav"
+  },
+  {
+    "key": "272",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_36_whsp.wav"
+  },
+  {
+    "key": "273",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zxg38/zxg38_02_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_37_whsp.wav"
+  },
+  {
+    "key": "274",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_38_whsp.wav"
+  },
+  {
+    "key": "275",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_39_whsp.wav"
+  },
+  {
+    "key": "276",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zxg38/zxg38_40_whsp.wav"
+  },
+  {
+    "key": "277",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_01_whsp.wav"
+  },
+  {
+    "key": "278",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_02_whsp.wav"
+  },
+  {
+    "key": "279",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "健全意识形态工作体系。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_35_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_03_whsp.wav"
+  },
+  {
+    "key": "280",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_04_whsp.wav"
+  },
+  {
+    "key": "281",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_05_whsp.wav"
+  },
+  {
+    "key": "282",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_06_whsp.wav"
+  },
+  {
+    "key": "283",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_19_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_07_whsp.wav"
+  },
+  {
+    "key": "284",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_02_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_08_whsp.wav"
+  },
+  {
+    "key": "285",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_09_whsp.wav"
+  },
+  {
+    "key": "286",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_10_whsp.wav"
+  },
+  {
+    "key": "287",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_15_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_11_whsp.wav"
+  },
+  {
+    "key": "288",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_12_whsp.wav"
+  },
+  {
+    "key": "289",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_13_whsp.wav"
+  },
+  {
+    "key": "290",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_14_whsp.wav"
+  },
+  {
+    "key": "291",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_15_whsp.wav"
+  },
+  {
+    "key": "292",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_38_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_16_whsp.wav"
+  },
+  {
+    "key": "293",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_17_whsp.wav"
+  },
+  {
+    "key": "294",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_40_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_18_whsp.wav"
+  },
+  {
+    "key": "295",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "检查和报告履职尽责情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_33_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_19_whsp.wav"
+  },
+  {
+    "key": "296",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "强化党委书记是第一责任人。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_31_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_20_whsp.wav"
+  },
+  {
+    "key": "297",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_29_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_21_whsp.wav"
+  },
+  {
+    "key": "298",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_22_whsp.wav"
+  },
+  {
+    "key": "299",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "加强意识形态工作阵地管理。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_36_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_23_whsp.wav"
+  },
+  {
+    "key": "300",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_24_whsp.wav"
+  },
+  {
+    "key": "301",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_14_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_25_whsp.wav"
+  },
+  {
+    "key": "302",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_26_whsp.wav"
+  },
+  {
+    "key": "303",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_27_whsp.wav"
+  },
+  {
+    "key": "304",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_19_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_28_whsp.wav"
+  },
+  {
+    "key": "305",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_01_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_29_whsp.wav"
+  },
+  {
+    "key": "306",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_09_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_30_whsp.wav"
+  },
+  {
+    "key": "307",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_31_whsp.wav"
+  },
+  {
+    "key": "308",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_32_whsp.wav"
+  },
+  {
+    "key": "309",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_33_whsp.wav"
+  },
+  {
+    "key": "310",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_34_whsp.wav"
+  },
+  {
+    "key": "311",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_24_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_35_whsp.wav"
+  },
+  {
+    "key": "312",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_06_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_36_whsp.wav"
+  },
+  {
+    "key": "313",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_37_whsp.wav"
+  },
+  {
+    "key": "314",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_38_whsp.wav"
+  },
+  {
+    "key": "315",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyh39/zyh39_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_39_whsp.wav"
+  },
+  {
+    "key": "316",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_18_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyh39/zyh39_40_whsp.wav"
+  },
+  {
+    "key": "317",
+    "transcription": "二零二一年是中国共产党建党一百周年，也是十四五规划开局之年，是学院推进建设高水平特色型学院的重要一年。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zyl40/zyl40_01_whsp.wav"
+  },
+  {
+    "key": "318",
+    "transcription": "学院坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、四中、三中、五中、六中全会精神。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zyl40/zyl40_02_whsp.wav"
+  },
+  {
+    "key": "319",
+    "transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_transcription": "三峰专项行动工作情况。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_39_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/enroll/zyl40/zyl40_03_whsp.wav"
+  },
+  {
+    "key": "320",
+    "transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_04_whsp.wav"
+  },
+  {
+    "key": "321",
+    "transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_25_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_05_whsp.wav"
+  },
+  {
+    "key": "322",
+    "transcription": "制定学院党史学习教育活动实施方案。党委书记、班子成员深入所联系的基层党支部讲党课，组织师生骨干参加分管校领导讲党课活动，组织参加学校辅导报告。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_06_whsp.wav"
+  },
+  {
+    "key": "323",
+    "transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_07_whsp.wav"
+  },
+  {
+    "key": "324",
+    "transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_08_whsp.wav"
+  },
+  {
+    "key": "325",
+    "transcription": "调整两个北京市重点实验室负责人，加强学院干部队伍建设，大力推进学院治理体系与治理能力建设。修订完善各类制度二十一项。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_09_whsp.wav"
+  },
+  {
+    "key": "326",
+    "transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_10_whsp.wav"
+  },
+  {
+    "key": "327",
+    "transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_11_whsp.wav"
+  },
+  {
+    "key": "328",
+    "transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_17_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_12_whsp.wav"
+  },
+  {
+    "key": "329",
+    "transcription": "加强基层组织建设，夯实党建基础。建立党委委员联系指导基层党支部制度以及党委关于督查指导基层党支部建设实施方案。",
+    "prompt_transcription": "全院师生员工奋力拼搏，圆满完成了十四五事业发展规划年度任务，事业发展呈现出新气象。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_04_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_13_whsp.wav"
+  },
+  {
+    "key": "330",
+    "transcription": "优化支部设置，百分之一百落实一线党支部书记双带头人标准，大力推进一支部一品牌建设。培育样板党支部，全年召开党支部书记会十一次，全面推进党支部标准化、规范化建设。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_14_whsp.wav"
+  },
+  {
+    "key": "331",
+    "transcription": "五、全面落实从严治党。高质量完成全面从严治党党建工作考核检查。第四批校内巡查反馈意见的四大类七项问题全部整改完成。",
+    "prompt_transcription": "严格执行民主集中制，加强团结协作。召开党委会二十三次，召开党政联席会四十次，严格执行三重一大制度。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_12_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_15_whsp.wav"
+  },
+  {
+    "key": "332",
+    "transcription": "党委加强对班子成员分管工作部门的检查、指导和联系单位党员的日常教育管理监督，加强督促检查。 二零二一年领导班子与师生谈话累计超过一百人次。",
+    "prompt_transcription": "健全意识形态工作体系。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_35_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_16_whsp.wav"
+  },
+  {
+    "key": "333",
+    "transcription": "六，大力加强思想政治教育。以落实推进学党史、优教风、研学风、强作风三风专项行动为抓手，将思想政治工作融入式贯穿到教育教学全过程。",
+    "prompt_transcription": "一、提高政治站位，强化理论武装。深入学习贯彻习近平总书记系列重要讲话精神，全年党委理论中心组学习十二次，深入开展党史学习教育系列活动。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_05_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_17_whsp.wav"
+  },
+  {
+    "key": "334",
+    "transcription": "以锐意主旋律学生思政活动为载体，开展永远跟党走主题晚会等线下活动。公众号持续进行学党史、青年大学习、思政专栏推送，开展线上活动。",
+    "prompt_transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_21_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_18_whsp.wav"
+  },
+  {
+    "key": "335",
+    "transcription": "一，落实教育改革，推进规范化管理和质量监控，充分发挥课堂教学主渠道作用，将创新精神、工匠精神、敬业精神、思政元素融入专业教学全过程，实现思政元素全覆盖。",
+    "prompt_transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_27_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_19_whsp.wav"
+  },
+  {
+    "key": "336",
+    "transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_23_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_20_whsp.wav"
+  },
+  {
+    "key": "337",
+    "transcription": "开展跨专业、跨学校联合毕业设计，真题率大于百分之八十或市级优秀本科毕业设计两项，校级十二项，两人获北京市普通高等学校本科毕业设计优秀指导教师，三人获校级优秀毕业设计指导教师。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_21_whsp.wav"
+  },
+  {
+    "key": "338",
+    "transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_22_whsp.wav"
+  },
+  {
+    "key": "339",
+    "transcription": "一人获北京高等学校优秀公共课主讲教师，一人获校级青年教师教学基本功比赛二等奖，一人获校级教学名师。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_23_whsp.wav"
+  },
+  {
+    "key": "340",
+    "transcription": "二、强化过程培养，提升研究生教育质量。全年招收博士研究生两名，硕士研究生九十六名，其中学术型三十三名，专业学位六十三名。",
+    "prompt_transcription": "二、坚持党建引领，发挥党委政治核心作用，加强学院顶层设计。科学编制并实施学院十四五事业发展规划。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_07_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_24_whsp.wav"
+  },
+  {
+    "key": "341",
+    "transcription": "加强对研究生的学术道德意识培养，将学术道德与学术规范作为学位必修课程，入学第一课即开展学术道德规范解读，实行学术不端一票否决。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_25_whsp.wav"
+  },
+  {
+    "key": "342",
+    "transcription": "制定学院关于加强研究生开题及中期检查考评的实施细则。学院硕士学位论文实行百分之一百盲审制度，规范研究生教育过程管理。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_26_whsp.wav"
+  },
+  {
+    "key": "343",
+    "transcription": "获批学校研究生创新项目获批十三项，其中重点项目三项，四名研究生获市级和校级毕业优秀毕业研究生称号，一名研究生硕士论文获批学校优秀硕士论文。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_27_whsp.wav"
+  },
+  {
+    "key": "344",
+    "transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_28_whsp.wav"
+  },
+  {
+    "key": "345",
+    "transcription": "以锐意充电站系列活动为载体，举办充电讲堂七十余次，心理活动十余场，为一百一十名学生申请助学金和临时困难补助。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_29_whsp.wav"
+  },
+  {
+    "key": "346",
+    "transcription": "关爱助力学生成长。持续开展锐意孵化器品牌活动，提升学生综合素质。学院师生团队承担服务首都百团计划立项十三项。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_30_whsp.wav"
+  },
+  {
+    "key": "347",
+    "transcription": "强化党委书记是第一责任人。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_31_whsp.wav"
+  },
+  {
+    "key": "348",
+    "transcription": "制定学院全面从严治党责任清单。",
+    "prompt_transcription": "高质量完成学院党委换届工作。制定与实施落实校领导到学院调研讲话精神任务分解方案。科学调研学院系中心、研究室主任、副主任。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_08_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_32_whsp.wav"
+  },
+  {
+    "key": "349",
+    "transcription": "检查和报告履职尽责情况。",
+    "prompt_transcription": "制定学院全面从严治党责任清单。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_32_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_33_whsp.wav"
+  },
+  {
+    "key": "350",
+    "transcription": "学生党员的廉政教育。",
+    "prompt_transcription": "三、深化学生工作体系建设，持续提升学风。学院系统构建五向三维锐意学生工作体系，打造锐意新视野。邀请学院教授、行业专家、企业高管等做讲座。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_28_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_34_whsp.wav"
+  },
+  {
+    "key": "351",
+    "transcription": "健全意识形态工作体系。",
+    "prompt_transcription": "深入学习习近平总书记对北京的重要讲话精神以及对教育的重要论述，全面贯彻落实蔡奇书记来校调研讲话精神，全面落实校领导来学院调研讲话精神。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/enroll/zyl40/zyl40_03_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_35_whsp.wav"
+  },
+  {
+    "key": "352",
+    "transcription": "加强意识形态工作阵地管理。",
+    "prompt_transcription": "探索人才培养模式多样化，实培、双培和外培项目并举育人。落实双导师制度，企业工程师和行业专家承担实训等教学任务。名师教授，本科生授课率百分之百。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_20_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_36_whsp.wav"
+  },
+  {
+    "key": "353",
+    "transcription": "做好教材选用意识形态排查。",
+    "prompt_transcription": "大力开展教学改革研究，以一人一教研活动为抓手，获批各级各类教研项目十二项。此外，获批北京高校优质本科课程一门，校级混合课程十二项。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_22_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_37_whsp.wav"
+  },
+  {
+    "key": "354",
+    "transcription": "落实学校安全稳定工作总体部署。",
+    "prompt_transcription": "三，加强领导班子建设，服务发展大局。坚决有力贯彻落实上级各项工作部署，服务学校和学院事业发展大局，向学校请示与报告重大事项两次。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_10_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_38_whsp.wav"
+  },
+  {
+    "key": "355",
+    "transcription": "三峰专项行动工作情况。",
+    "prompt_transcription": "强化班子思想理论武装，党委理论中心组学习十二次。班子成员深入所联系的基层党支部讲党课。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_11_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_39_whsp.wav"
+  },
+  {
+    "key": "356",
+    "transcription": "开展学党史、强三风、共奋进主题活动。",
+    "prompt_transcription": "做好教材选用意识形态排查。",
+    "prompt_audio": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_37_whsp.wav",
+    "ground_truth": "whisper40/whisper40/whisper40/whsp/test/zyl40/zyl40_40_whsp.wav"
+  }
+]
